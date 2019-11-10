@@ -13,6 +13,18 @@ which extends [@form8ion/eslint-config](https://github.com/form8ion/eslint-confi
 [![npm][npm-badge]][npm-link]
 [![MIT license][license-badge]][license-link]
 
+### Using as your own
+
+1. Click the "[Use this template](https://github.com/form8ion/eslint-config-template/generate)"
+   button above to [create your own repository from this template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+1. Change the [package name](https://github.com/form8ion/eslint-config-template/blob/0ae75107cc4c63957ace2bfbf98d73b35fc8564d/package.json#L2)
+   to use your own scope and not include the `-template` suffix
+1. Change the [installation instructions](#installation) to reference the
+   correct name of your package
+1. Update all links and badges in the `README.md` to match your new repository
+   and package names
+1. Remove [this section](#using-as-your-own) from your new `README.md`
+
 ### Installation
 
 ```sh
