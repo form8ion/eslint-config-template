@@ -4,3 +4,4 @@ repository:
   description: Shareable config for ESLint
   homepage: 'https://npm.im/@form8ion/eslint-config-template'
   private: false
+  is_template: false
